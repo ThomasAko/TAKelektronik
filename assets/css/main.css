@@ -2137,6 +2137,7 @@
 		}
 
 
+
 /* Icon */
 
 	.icon {
@@ -2624,7 +2625,7 @@
 		input[type="button"].special,
 		button.special,
 		.button.special {
-			background-color: #ffffff;
+			background-color: #0000ff;
 			box-shadow: none;
 			color: #242943;
 		}
@@ -2638,7 +2639,7 @@
 			button.special:active,
 			.button.special:hover,
 			.button.special:active {
-				background-color: #9bf1ff;
+				background-color: #ff0ff0;
 				color: #242943 !important;
 			}
 
